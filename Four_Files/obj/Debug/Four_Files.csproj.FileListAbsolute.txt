@@ -1,0 +1,10 @@
+C:\Users\adm\Desktop\Four_Files\Four_Files\bin\Debug\Four_Files.exe.config
+C:\Users\adm\Desktop\Four_Files\Four_Files\bin\Debug\Four_Files.exe
+C:\Users\adm\Desktop\Four_Files\Four_Files\bin\Debug\Four_Files.pdb
+C:\Users\adm\Desktop\Four_Files\Four_Files\obj\Debug\Four_Files.csproj.AssemblyReference.cache
+C:\Users\adm\Desktop\Four_Files\Four_Files\obj\Debug\Four_Files.Form1.resources
+C:\Users\adm\Desktop\Four_Files\Four_Files\obj\Debug\Four_Files.Properties.Resources.resources
+C:\Users\adm\Desktop\Four_Files\Four_Files\obj\Debug\Four_Files.csproj.GenerateResource.cache
+C:\Users\adm\Desktop\Four_Files\Four_Files\obj\Debug\Four_Files.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Four_Files\Four_Files\obj\Debug\Four_Files.exe
+C:\Users\adm\Desktop\Four_Files\Four_Files\obj\Debug\Four_Files.pdb
